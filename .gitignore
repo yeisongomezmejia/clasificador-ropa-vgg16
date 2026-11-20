@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos entrenados (demasiado grandes para GitHub)
+*.h5
+*.keras
